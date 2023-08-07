@@ -1,0 +1,20 @@
+h2{
+  text-align: center;
+  color: orangered;
+  font-size: 36px;
+  font-family: Arial, sans-serif;
+  text-decoration: underline;
+  text-decoration-thickness: 3px; /* Thickness of the underline */
+  text-decoration-style: dotted; /* Style of the underline */
+  padding: 10px;
+  border: 2px dotted gray; /* Border color around the heading */
+  border-radius: 10px; /* Border radius to give a rounded corner */
+  box-shadow: 0 4px 8px rgba(0, 0, 10, 10); /* Adding a subtle shadow */
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height:100vh;
+    background-color: #f0f0f0;
+}
